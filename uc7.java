@@ -1,4 +1,4 @@
-public class OOPSBannerUC7 {
+public class uc7 {
     static class CharacterPatternMap {
         private final char character;
         private final String[] pattern;
