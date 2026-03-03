@@ -1,4 +1,4 @@
-public class OOPSBannerUC6 {
+public class uc6 {
     public static String[] getOPattern() {
         return String.join("\n",
                 "  *****  ",
